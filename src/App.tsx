@@ -34,7 +34,7 @@ function App() {
               Transform Your Workflow
             </h1>
             <p className="text-lg text-black mb-10 leading-relaxed font-semibold max-w-2xl mx-auto">
-              A clean, minimal approach to productivity. Simple, powerful, and built for teams who value efficiency and elegance.
+              A clean, minimal approach to productivity. Simple, powerful, built for teams who value efficiency and elegance.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <button className="px-8 py-3 bg-black text-white border border-black hover:bg-white hover:text-black transition-all font-bold text-sm">
